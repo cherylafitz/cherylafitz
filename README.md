@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cherylafitz
 - 👀 I’m interested in user interface design and development, usability, interaction design, and the occasional full stack project.
 - 🌱 I’m currently learning all about accessibility and how to meet WCAG requirements.
-- 💞️ I’m looking to collaborate on front end UI patterns. 
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: cherylfitzgerald.dev@gmail.com
 
 <!---
